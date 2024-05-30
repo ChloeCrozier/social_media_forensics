@@ -1,0 +1,9 @@
+pywikibot
+pandas
+numpy
+matplotlib
+wordcloud
+nltk
+simplejson
+wordcloud
+bs4
